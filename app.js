@@ -19,7 +19,7 @@ two.style.display='block'
 if  (bmi<18.5) {
     p.textContent=`${result} siz juda ozg'insiz😫`
     document.body.style.backgroundColor="orangered"
-    img.src="https://www.clipartmax.com/png/full/63-632264_thin-girl-clipart-black-and-white-skinny-girl-clipart-transparent.png"
+    img.src="https://avatars.mds.yandex.net/i?id=1e5bb658b726e3dbffa8b5c4b101eb6c9ea39a8c-5664987-images-thumbs&n=13"
     img.style.width="100%"
     img.style.height="100%"
     two.style.backgroundColor='orangered'
