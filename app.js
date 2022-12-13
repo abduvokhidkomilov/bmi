@@ -29,8 +29,8 @@ else if (bmi>18.5 && bmi<=24.9) {
 p.textContent=` ${result} siz normal vaznli insonsiz😊`
 img.src="./images/norml.png"
 document.body.style.backgroundColor="orangered"
-img.width="100%"
-img.height="100%"
+img.style.width="100%"
+img.style.height="100%"
 
 
 }
@@ -38,16 +38,16 @@ else if (bmi>25 && bmi<=29.9) {
     p.textContent=`${result} siz ortiqcha vaznli insonsiz😮`
     img.src="./images/plump.png"
     document.body.style.backgroundColor="orangered"
-    img.width="100%"
-    img.height="100%"
+    img.style.width="100%"
+    img.style.height="100%"
     }
 
 else if (bmi>30) {
         p.textContent=`${result} siz semirib ketgansiz☹`       
         img.src="./images/plump.png"
         document.body.style.backgroundColor="orangered"
-        img.width="100%"
-        img.height="100%"
+        img.style.width="100%"
+        img.style.height="100%"
     }
        
 
